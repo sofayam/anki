@@ -44,6 +44,8 @@ for key in all:
 
 print("Non unique", nonuniq)
 
+print (sorted(all.items(), key=lambda x:x[1]))
+
 
 
 # use ord to get number from kanji
