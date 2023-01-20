@@ -1,5 +1,7 @@
 import csv
 from collections import defaultdict
+from keywords import keywords
+
 
 def isKanji(ch):
     res = False
@@ -58,4 +60,20 @@ fivek = readField("core5k.txt", ["1"], "1")
 print("5k kanjis")
 print(len(fivek))
 
-print (sorted(fivek.items(), key=lambda x:x[1]))
+# print (sorted(fivek.items(), key=lambda x:x[1]))
+
+missing = defaultdict(int)
+
+index = 1
+limit = 2000
+for keyword in keywords:
+    index +=1
+    if index > limit:
+        break 
+    k = keyword[0]
+    if k not in fivek.keys():
+        missing[k] +=1
+
+print(missing)
+print("Missing", len(missing))
+
