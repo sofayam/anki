@@ -64,7 +64,7 @@ print(len(fivek))
 
 missing = defaultdict(int)
 
-index = 1
+index = 0
 limit = 2000
 for keyword in keywords:
     index +=1
@@ -72,7 +72,7 @@ for keyword in keywords:
         break 
     k = keyword[0]
     if k not in fivek.keys():
-        missing[k] +=1
+        missing[k] = index
 
 print(missing)
 print("Missing", len(missing))
