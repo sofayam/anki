@@ -62,7 +62,8 @@ print(len(fivek))
 
 # print (sorted(fivek.items(), key=lambda x:x[1]))
 
-missing = defaultdict(int)
+missing5k = defaultdict(int)
+missingGJVL = defaultdict(int)
 
 index = 0
 limit = 2000
@@ -72,8 +73,11 @@ for keyword in keywords:
         break 
     k = keyword[0]
     if k not in fivek.keys():
-        missing[k] = index
+        missing5k[k] = index
+    if k not in words.keys():
+        missingGJVL[k] = index
 
-print(missing)
-print("Missing", len(missing))
+# print(missing)
+print("Missing from 5k: ", len(missing5k))
 
+print("Missing from GJVL: ", len(missingGJVL))
