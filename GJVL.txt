@@ -205,9 +205,9 @@ budget	予算	よさん	予算は不正確で、しかも非現実的に思え�
 imagination&nbsp;	想像	そうぞう			
 tea shop, café&nbsp;	喫茶店	きっさてん			
 exchange, barter, replacement	交換	こうかん	どこで外貨の交換をすることができますか。	"<img src=""paste-ca8e0963744c196363edeb5a07d9103232209e6d.png"">"	
-love, passion	恋愛	れんあい	恋愛と結婚は別だy	"<img src=""paste-6cef88c69ea8d0471eea75c46562a8817719d29d.png"">"	
+love, passion	恋愛	れんあい	恋愛と結婚は別だよ	"<img src=""paste-6cef88c69ea8d0471eea75c46562a8817719d29d.png"">"	
 crocodile (lying) tears	嘘泣き	うそなき		"<img src=""paste-34e429f810ff9b3921c907b2350e577fdbd8487a.png"">"	
-gist, meaning	趣旨	しゅし	彼は愛していると言う趣旨の手紙を彼女に書いた。		
+gist, meaning	趣旨	しゅし	彼は愛していると言う趣旨の手紙を彼女に書いた。	"<img src=""paste-5888fcb5d06f2235a3943e3c7df1cfcbbfa5e1d6.png"">"	
 confuse, mix up	混同	こんどう	彼女はいつも塩と砂糖を混同している。<div><br></div>	"<img src=""paste-6bd33d405a7f20feae15d182cbb02f4ab73e53e6.png"">"	
 presentation, submission&nbsp;	提出	ていしゅつ	私は昨日レポートを提出した。	"<img src=""paste-b7e20a62abbeda2493202fcd3e1022a513325257.png"">"	
 CV, résumé&nbsp;	履歴書	りれきしょ		"<img src=""paste-be7d61c2f94f59882e3c908b5c273446b47ebb03.png"">"	
@@ -409,7 +409,7 @@ respect	尊敬	そんけい		"<img src=""paste-4bab7cbcfeab35c0b003c1232c33f5801
 drinking habits	酒癖	さけぐせ		"<img src=""paste-c538daeef57b33753eb7daa9e066948fd0ad7f22.jpg"">"	
 corduroy&nbsp;	畝織	うねおり		"<img src=""paste-6e82c44130b13ef8445af4d7c515387c691ed113.png"">"	
 spectator	傍聴人	ぼうちょうにん		"<img src=""paste-a387989409aa3dcf726b42418b7704e118e2b294.png"">"	
-misunderstanding&nbsp;	勘違い	かんちがい	彼女が会いに来るだろうと思ったのは彼の勘違いだった。		
+misunderstanding&nbsp;	勘違い	かんちがい	彼女が会いに来るだろうと思ったのは彼の勘違いだった。	"<img src=""paste-30a8c38f2a2702db723a9efd87d4d76d0c774c4d.png"">"	
 appropriate&nbsp;	適切	てきせつ			
 backstabbing, treachery	裏切り	うらぎり		"<img src=""paste-9c2c76897dd36f07c5000903250da084696cc73b.png"">"	
 insufficient, less than	未満	みまん		"<img src=""paste-18bcb286e5da6a0502576190fb075c81d89f10be.png"">"	
@@ -430,3 +430,47 @@ reliance, trust	信頼	しんらい		"<img src=""paste-5f6d0bf4cfbe97b1e6b708133
 area, region	地域	ちいき			
 shine, glitter	光り輝く	ひかりかがやく		"<img src=""paste-6f1e82ceec6dd08145b3b63779051613b21dbeb9.png"">"	
 capitalism	資本主義	しほんしゅぎ	彼は新しい事業を始めるために資本を必要としていた。	"<img src=""paste-f65308225674f70d0ea5bd13b4a41c16f4a2776f.png"">"	
+paratroops	落下傘部隊	らっかさんぶたい		"<img src=""paste-702c07f604d9f2054ddce43968633e2b87cd6753.png"">"	
+crowd, throng, mob	群衆	ぐんしゅう		"<img src=""paste-a3d00799b526476e5e9491f2b0a6c68f2d909320.png"">"	
+superstition&nbsp;	迷信	めいしん		"<img src=""paste-37b04475998e27d4ddd14acfcdc52202c2cdce4b.png"">"	
+one, two, three (in documents)	壱　弐　参	いち　に　さん			
+10^8 10^12	億　兆	おく　ちょう			
+preparations&nbsp;	支度	したく		"<img src=""paste-122cce7d16c83fbcf8ab8796ce250dcde6556383.png"">"	
+when I was 17 years old	十七歳の時	じゅうななさいのとき			
+thankfulness&nbsp;	感謝	かんしゃ		"<img src=""paste-730bbee0e7143518e8da21659866f6f05bada39a.png"">"	
+assistance&nbsp;	支援	しえん		"<img src=""paste-42eab542f975a1402f11a2c17edf39638d343e35.png"">"	
+union, merger	合併	がっぺい	二つの銀行が合併して一つの大銀行を作った。	"<img src=""paste-a3161477a2bbc956787982669daa3607fc816c54.png"">"	
+bottled goods	瓶詰め	びんづめ		"<img src=""paste-78d23353732896943230dade9e3dee1e12f28cbd.png"">"	
+lake	湖	みずうみ		"<img src=""paste-313004876a93d5a8882403ecf2700f1ea6fe87ba.png"">"	
+refrain from smoking	煙草を控える	たばこをひかえる		"<img src=""paste-3f55170cb3d9883c2fdad70dad42074a80687cbf.png"">"	
+lifeboat, friend in need	助け舟	たすけぶね		"<img src=""paste-630abb0f1daccae5c374b97b9c50765830ced771.png"">"	
+boss, chief	大将	たいしょう		"<img src=""paste-421dd132708464e6eb06fad6abe00292f7264017.jpg"">"	
+dung heap	馬糞塚	ばふんづか		"<img src=""paste-40d64654337ed26e48a35cbf4b175f7d62a791f0.png"">"	
+son in law	娘婿	むすめむこ		"<img src=""paste-f58fa90959cf754b41f2be7731915c9ccf3ed811.png"">"	
+absorption, suction	吸収	きゅうしゅう		"<img src=""paste-9b0f4f3a6679e6848e312a07cd45567aa5c3400e.png"">"	
+friendly treatment&nbsp;	親切な扱い	しんせつなあつかい			
+rhythm&nbsp;	韻律	いんりつ		"<img src=""paste-aab35b02e0d82ca8a67932922398029c9ce73fbc.png"">"	
+harmful effect	弊害	へいがい		"<img src=""paste-9daa48bdae9cec033943a57e1da94151785a4889.png"">"	
+paper money, banknotes	紙幣	しへい		"<img src=""paste-dc78e396304780e4d189a0de903a608109c37538.png"">"	
+health insurance&nbsp;	健康保険	けんこうほけん		"<img src=""paste-85c1b951471f29b447f7f86a299e27fc555b2a75.png"">"	
+arousal, excitement, awakening, evocation&nbsp;	喚起	かんき	この本があなたの想像力を喚起してくれるでしょう。	"<img src=""paste-1a42d17ccfab4775adaac002b6ce0d071de43ab7.png"">"	
+donate to a charitable institution	慈善施設に寄付する	じぜんしせつにきふする	彼は自分の金をすべて慈善施設に寄付した。	"<img src=""paste-6871660b30052702c647b18059c7c273cc53d597.png"">"	
+mediation	斡旋	あっせん		"<img src=""paste-c72ead9e68e1ae632bbe9519d1e9784871a1428c.png"">"	
+Shinto shrine	お宮	おみや		"<img src=""paste-96d5a770141829c927bddb45ab646f8ad3a4d3e1.png"">"	
+combination, join	結合	けつごう		"<img src=""paste-438ce39b7d55b3bb5a1ca1f77c251da16c81c616.png"">"	
+subtitles&nbsp;	字幕	じまく		"<img src=""paste-9ffe7f0e0bb0972563209e2fbaabd3f53a4bc267.png"">"	
+news coverage, interview	取材	しゅざい		"<img src=""paste-e9f21122def88d63a39f8a1bce86b26926a8282b.png"">"	
+leak (info) to the outside	外部に漏らす	がいぶにもらす		"<img src=""paste-48a841e42c258f894063954b935c8efa559c9505.png"">"	
+investigation, search (criminal)	捜査	そうさ		"<img src=""paste-4364edac656ac14a11aca6414bd23d25bd0a913d.png"">"	
+crack detective&nbsp;	鬼刑事	おにけいじ		"<img src=""paste-bd5361fb99e8d7b746b5c2f89ba46632a9fd413d.png"">"	
+"boon, fruit of one's efforts"	賜物	たまもの		"<img src=""paste-fe74a0e323f25d39bcedbc3ce18595a5aeb6e415.png"">"	
+sewage disposal	屎尿処理	しにょうしょり		"<img src=""paste-fda44d97823021bbba78c77a0f90d3228d28be74.png"">"	
+results, grades, marks	成績	せいせき	私学校の成績は平均をかなり上回っていた。	"<img src=""paste-5366e30e4c2c294dfd035a46cc28a17fbbe4ecb9.png"">"	
+magnificent, grand, splendid	壮大	そうだい	壮大な眺めですね。	"<img src=""paste-c6938267a6f520abf89abe3dc9309c485e02234c.png"">"	
+to cross the road	横切る	よこぎる		"<img src=""paste-b1c854d97bc6e0f6b460be09ae5a562b60eb234d.png"">"	
+"against one's will"	無理矢理	むりやり	欲しくもない物を無理矢理買わされた。	"<img src=""paste-42612fa32f4702ee5422c01639008cd5865b8cd0.png"">"	
+hedge	塀	へい		"<img src=""paste-ccd0c50d39f005a151672effc4717dfa9da16936.png"">"	
+nun&nbsp;	尼僧	にそう		"<img src=""paste-77e4daff02871ba3c34d06da22a8690f11d99f65.png"">"	
+countryside&nbsp;	田舎	いなか		"<img src=""paste-4f3183ddf77ce1ef91efb2178681ee994fd5b05e.png"">"	
+worldly desires	煩悩	ぼんのう		"<img src=""paste-a5ac6fd52af7756df5a9efd58d753f5ecaf8c888.png"">"	
+uterus	母胎	ぼたい		"<img src=""paste-0af395e7d9c99c0b4b27acee0def84fe6f78af38.png"">"	
