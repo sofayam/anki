@@ -1,9 +1,9 @@
-Total 838
-Non unique 221
+Total 927
+Non unique 263
 With stories
-Total 991
-Non unique 300
+Total 1072
+Non unique 336
 5k kanjis
 1709
 Missing from 5k:  475
-Missing from GJVL:  1191
+Missing from GJVL:  1107
