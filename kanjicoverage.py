@@ -66,12 +66,15 @@ missing5k = defaultdict(int)
 missingGJVL = defaultdict(int)
 
 index = 0
-limit = 2000
+limit = 2000   
+heisig = []             
 for keyword in keywords:
     index +=1
     if index > limit:
         break 
     k = keyword[0]
+    heisig.append(k)
+    # print(k, end='')
     if k not in fivek.keys():
         missing5k[k] = index
     if k not in words.keys():
@@ -81,3 +84,19 @@ for keyword in keywords:
 print("Missing from 5k: ", len(missing5k))
 
 print("Missing from GJVL: ", len(missingGJVL))
+
+missingOnly = False
+
+if missingOnly:
+
+    for k in missingGJVL.keys():
+        print (k, end='')
+# print (missingGJVL.keys())
+
+else:
+     for h in heisig:
+        if h in missingGJVL.keys():
+            print("<b>",h,"</b>", end='')
+        else: 
+            print(h, end='')
+
