@@ -1,6 +1,7 @@
 import csv
 from collections import defaultdict
 from keywords import keywords
+from datetime import date
 
 
 def isKanji(ch):
@@ -94,9 +95,16 @@ if missingOnly:
 # print (missingGJVL.keys())
 
 else:
-     for h in heisig:
-        if h in missingGJVL.keys():
-            print("<b>",h,"</b>", end='')
-        else: 
-            print(h, end='')
 
+    fname = date.today().isoformat()
+    fname += ".html"
+    f = open(fname, "w")
+    f.write("<html>\n")
+    f.write('<font size="+1">\n')
+    for h in heisig:
+        if h in missingGJVL.keys():
+            f.write ("<b>" + h + "</b>\n")
+        else: 
+            f.write (h)
+    f.write("\n </html>")
+    f.close()
