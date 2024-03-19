@@ -19,9 +19,10 @@ def readField(name, fields, field):
     all = defaultdict(int)
     for row in cf:
         text = row[field]
-        for ch in text:
-            if isKanji(ch):
-                all[ch] +=1
+        if text:
+            for ch in text:
+                if isKanji(ch):
+                    all[ch] +=1
     return all
 
 
